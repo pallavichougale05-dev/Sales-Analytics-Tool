@@ -62,20 +62,6 @@ A Python-based project that analyzes sales data from a CSV file and generates us
 - ReportLab
 
 ---
-
-## 📁 Project Structure
-
-
-Sales-Analytics-Tool/
-│
-├── sales_analysis.py
-├── sales_data.csv
-├── README.md
-├── requirements.txt
-├── .gitignore
-└── outputs/
-
-
 ---
 
 ## ▶️ How to Run
@@ -84,10 +70,10 @@ Sales-Analytics-Tool/
 
 pip install pandas matplotlib numpy scikit-learn reportlab
 
-###2. Run the program
+### 2. Run the program
 python sales_analysis.py
 
-###3. Enter CSV file path
+### 3. Enter CSV file path
 
 Example:
 sales_data.csv
@@ -102,15 +88,15 @@ The project automatically generates:
 
 All outputs are saved in the outputs/ folder.
 
-##💡 Key Concept
+## 💡 Key Concept
 
 This tool is designed to work even with incomplete datasets.
 It dynamically checks available columns and performs only valid analysis.
 
-##📈 Future Improvements
+## 📈 Future Improvements
 Add SQL database integration
 Build a GUI/dashboard version
 Improve forecasting model
 Add anomaly detection
-👩‍💻 Author
+## 👩‍💻 Author
 Pallavi Chougale

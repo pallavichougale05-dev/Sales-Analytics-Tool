@@ -1,38 +1,8 @@
 # 📊 Sales Analytics and Reporting Tool
 
-A Python-based project that analyzes sales data from CSV files and generates useful business insights, reports, visualizations, and sales forecasting.
-
-## 🚀 Features
-
-- Load sales data from CSV
-- Handle missing columns dynamically
-- Clean and preprocess data
-- Calculate:
-  - Total Revenue
-  - Total Profit
-  - Category-wise Sales
-  - Product-wise Sales
-  - Region-wise Sales
-  - Monthly Sales Trend
-- Generate charts automatically
-- Forecast future sales using Linear Regression
-- Generate PDF report
-- Export cleaned data and reports
-
-## 🛠 Technologies Used
-
-- Python
-- Pandas
-- Matplotlib
-- NumPy
-- Scikit-learn
-- ReportLab
-# 📊 Sales Analytics and Reporting Tool
-
 A Python-based project that analyzes sales data from a CSV file and generates useful business insights, reports, visualizations, and sales forecasting.
 
 ---
-
 ## 🚀 Features
 
 - 📂 Load sales data from CSV

@@ -81,12 +81,11 @@ sales_data.csv
 
 The project automatically generates:
 
-📄 CSV reports (summary, category, product, etc.)
-📊 Charts (PNG images)
-🔮 Sales forecast file
-📑 PDF report
-
-All outputs are saved in the outputs/ folder.
+- 📄 CSV reports (summary, category, product, etc.)
+- 📊 Charts (PNG images)
+- 🔮 Sales forecast file
+- 📑 PDF report
+- All outputs are saved in the outputs/ folder.
 
 ## 💡 Key Concept
 

@@ -90,13 +90,14 @@ All outputs are saved in the outputs/ folder.
 
 ## 💡 Key Concept
 
-This tool is designed to work even with incomplete datasets.
-It dynamically checks available columns and performs only valid analysis.
+- This tool is designed to work even with incomplete datasets.
+- It dynamically checks available columns and performs only valid analysis.
 
 ## 📈 Future Improvements
-Add SQL database integration
-Build a GUI/dashboard version
-Improve forecasting model
-Add anomaly detection
+- Add SQL database integration
+- Build a GUI/dashboard version
+- Improve forecasting model
+- Add anomaly detection
+
 ## 👩‍💻 Author
 Pallavi Chougale
